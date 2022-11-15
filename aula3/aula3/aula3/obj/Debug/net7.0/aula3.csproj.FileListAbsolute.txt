@@ -1,0 +1,15 @@
+/Users/joao/Desktop/visualStudio/aula3/aula3/aula3/bin/Debug/net7.0/aula3
+/Users/joao/Desktop/visualStudio/aula3/aula3/aula3/bin/Debug/net7.0/aula3.deps.json
+/Users/joao/Desktop/visualStudio/aula3/aula3/aula3/bin/Debug/net7.0/aula3.runtimeconfig.json
+/Users/joao/Desktop/visualStudio/aula3/aula3/aula3/bin/Debug/net7.0/aula3.dll
+/Users/joao/Desktop/visualStudio/aula3/aula3/aula3/bin/Debug/net7.0/aula3.pdb
+/Users/joao/Desktop/visualStudio/aula3/aula3/aula3/obj/Debug/net7.0/aula3.csproj.AssemblyReference.cache
+/Users/joao/Desktop/visualStudio/aula3/aula3/aula3/obj/Debug/net7.0/aula3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joao/Desktop/visualStudio/aula3/aula3/aula3/obj/Debug/net7.0/aula3.AssemblyInfoInputs.cache
+/Users/joao/Desktop/visualStudio/aula3/aula3/aula3/obj/Debug/net7.0/aula3.AssemblyInfo.cs
+/Users/joao/Desktop/visualStudio/aula3/aula3/aula3/obj/Debug/net7.0/aula3.csproj.CoreCompileInputs.cache
+/Users/joao/Desktop/visualStudio/aula3/aula3/aula3/obj/Debug/net7.0/aula3.dll
+/Users/joao/Desktop/visualStudio/aula3/aula3/aula3/obj/Debug/net7.0/refint/aula3.dll
+/Users/joao/Desktop/visualStudio/aula3/aula3/aula3/obj/Debug/net7.0/aula3.pdb
+/Users/joao/Desktop/visualStudio/aula3/aula3/aula3/obj/Debug/net7.0/aula3.genruntimeconfig.cache
+/Users/joao/Desktop/visualStudio/aula3/aula3/aula3/obj/Debug/net7.0/ref/aula3.dll
